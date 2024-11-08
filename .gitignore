@@ -1,0 +1,28 @@
+# Ignore system files
+/Application Data/
+/Cookies/
+/Local Settings/
+/My Documents/
+/NetHood/
+/Recent/
+/SendTo/
+/Start Menu/
+/Templates/
+/Favorites/
+/Contacts/
+/Desktop/
+/Downloads/
+/Music/
+/Pictures/
+/Videos/
+
+# Ignore configuration and IDE files
+.vscode/
+.DS_Store
+*.log
+node_modules/
+
+# Ignore temporary and cache files
+.cache/
+.ipynb_checkpoints/
+node_modules
